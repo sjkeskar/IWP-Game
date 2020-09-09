@@ -1,14 +1,26 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-color: #F9F5FF;
+}
+
 
 button{
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color: #14591D;
-    border: 2px solid #0A210F;
-    padding: 10px;
+    background-color: #FFD166;
+    border: 3px solid #F75C03;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 16px;
 }
 
 button:hover{
-    color: #fefefe;
-    background-color: #0A210F;
+    color: #fcfcfc;
+    background-color: #F75C03;
 }
+
+/* fcfcfc */
+
+/* 89A6FB 78C3FB */
