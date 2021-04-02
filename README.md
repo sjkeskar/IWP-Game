@@ -1,3 +1,3 @@
 # IWP-Game
-If you can click the butto you win!
+If you can click the button you win!
 parody game
